@@ -10,7 +10,7 @@ Esse é um site inspirado no jogo da forca
 Aqui estão as tecnologias usadas nesse projeto.
 
 * ReactJs
-*TypeScript
+* TypeScript
 
 ## Como usar
 
