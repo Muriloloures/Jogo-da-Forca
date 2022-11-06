@@ -2,7 +2,7 @@
 
 
 ## Jogo-da-Forca
-Esse é um site inspirado no jogo da forca
+Esse é um site inspirado no jogo da forca.
 
 
 ## Tecnologias usadas 
@@ -14,8 +14,8 @@ Aqui estão as tecnologias usadas nesse projeto.
 
 ## Como usar
 
-* Para usar o site você deverá dar um npm install para baixar todas as dependências
-* Depois você precisará dar um npm run dev para que o site inicie em seu navegador
+* Para usar o site você deverá dar um npm install para baixar todas as dependências.
+* Depois você precisará dar um npm run dev para que o site inicie em seu navegador.
 
 ### 1 - Quando você entrar você verá a página inicial.
 
