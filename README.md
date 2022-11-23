@@ -40,6 +40,7 @@ Aqui estão as tecnologias usadas nesse projeto.
 
 
 ## Links
+  - Deploy: https://jogo-da-forca-sigma.vercel.app
   - Repositorio: https://github.com/Muriloloures/Jogo-da-Forca
     - Em caso de bugs ou qualquer outro problema por favor, contate-me
       murilomlssloures@outlook.com. Eu valorizo o seu esforço para melhorar a qualidade e segurança deste projeto!
